@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2018110334_彭垚_实验六</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="score">分数:</string>
+    <string name="reset">重置</string>
+    <string name="change">更换图片</string>
+</resources>
